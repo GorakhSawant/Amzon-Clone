@@ -1,2 +1,2 @@
 # Amzon-Clone
-Amazon Clone using HTML, Tailwind CSS, React JS &amp; Firebase
+Amazon Clone using HTML, Tailwind CSS, JavaScript and Firebase
